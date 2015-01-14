@@ -1,0 +1,1 @@
+This program reads 'solid kmers' binary file and prints out kmers. The kmer size needs to be changed before compilation.
