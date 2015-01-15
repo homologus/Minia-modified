@@ -1,4 +1,0 @@
-a) Class bytes - Instead of int, long_int, etc, we can define basic data type in terms of bytes, and 
-extend it with increase in k-mer size.
-
-b) Implement some kind of hash function - murmur hash?
