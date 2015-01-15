@@ -1,0 +1,16 @@
+minia-1.5418		- original code
+minia-from-kmers	- minia from kmers
+
+minia-bank	
+minia-bloom
+minia-clean
+minia-my-crazy-bloom
+README
+
+
+
+
+a) Class bytes - Instead of int, long_int, etc, we can define basic data type in terms of bytes, and 
+extend it with increase in k-mer size.
+
+b) Implement some kind of hash function - murmur hash?

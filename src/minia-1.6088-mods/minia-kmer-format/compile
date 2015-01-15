@@ -1,0 +1,1 @@
+g++ main.cpp Bank.cpp Kmer.cpp -lz
